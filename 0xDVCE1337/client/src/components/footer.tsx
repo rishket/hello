@@ -27,7 +27,7 @@ export default function Footer() {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
-            <span className="text-muted-foreground text-sm">© 2024 0xDVCE1337 Club. All rights reserved.</span>
+            <span className="text-muted-foreground text-sm">© 2025 0xDVCE1337 Club. All rights reserved.</span>
             <div className="flex space-x-4">
               <motion.a
                 href="#"
